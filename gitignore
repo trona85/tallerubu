@@ -1,0 +1,13 @@
+/target
+/.settings
+*.orig
+.classpath
+.project
+log.roo
+*.orig
+derby.log
+*.iml
+.DS_Store
+.idea
+./idea/**
+/src/test/resources/localhost/**/logs
